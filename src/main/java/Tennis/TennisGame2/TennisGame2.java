@@ -1,3 +1,6 @@
+package Tennis.TennisGame2;
+
+import Tennis.TennisGame;
 
 public class TennisGame2 implements TennisGame
 {
